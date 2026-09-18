@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Puzzle-a-dos/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
