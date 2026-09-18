@@ -1,0 +1,8 @@
+{
+  "name": "Puzzle a Dos",
+  "description": "Rompecabezas local de imagen para armar e intercambiar piezas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
